@@ -1,8 +1,4 @@
-Here's the complete README.md for your Tic Tac Toe React project:
 
-markdown
-Copy
-Edit
 # 🎮 Tic Tac Toe (React)
 
 A simple yet fun implementation of the classic **Tic Tac Toe** game built using **React.js**. Play as X or O and challenge a friend on the same device!
@@ -22,7 +18,7 @@ A simple yet fun implementation of the classic **Tic Tac Toe** game built using 
 ## 🛠️ Tech Stack
 
 - ⚛️ **React.js**
-- 💅 **CSS** (or Tailwind, if used)
+- 💅 **CSS** 
 - 📦 **Node.js** (for project setup with `create-react-app`)
 
 ---
@@ -36,7 +32,7 @@ git clone https://github.com/PradiptaDutta2005/TicTacToe.git
 ```
 ## 🚀 Live Demo
 
-Check out the live version of the Tic Tac Toe game here: [Tic Tac Toe - Live Demo]https://tictactoepradipta.netlify.app/
+Check out the live version of the Tic Tac Toe game here: https://tictactoepradipta.netlify.app/
 
 
 
